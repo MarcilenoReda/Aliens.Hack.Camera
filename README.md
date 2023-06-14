@@ -7,7 +7,7 @@ pkg install bash
 
 
 
-git clone https://github.com/hackermohamedPro/ALIENS.HaCK.Camera
+git clone https://github.com/MarcilenoReda/Aliens.Hack.Camera.git
 
 
 
